@@ -58,7 +58,7 @@
       <img
         align="center"
         width="396" 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=AadithPunathil&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=FFFFFF"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=aadith-sigzen&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=FFFFFF"
         alt="AadithPunathil"
       />
     </a>
@@ -68,13 +68,13 @@
 
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AadithPunathil&theme=github_dark&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aadith-sigzen&theme=github_dark&hide_border=true"/>
 </p>
 ---
 <details open="">
     <summary><strong>My Github Stats 📈 </strong></summary>
     <br>
-<p>&nbsp;<a href="https://github.com/AadithPunathil"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AadithPunathil&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117" alt="AadithPunathil" /></a></p>
+<p>&nbsp;<a href="https://github.com/AadithPunathil"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aadith-sigzen&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117" alt="AadithPunathil" /></a></p>
 </details>
 <br />
 
